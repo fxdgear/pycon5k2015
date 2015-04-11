@@ -9,9 +9,9 @@ Dan McCobs               174    17:24:00
 Behnam Kamrani           224    17:27:00
 James Heibert            207    17:32:00
 Mark Lavin               180    17:50:00
-...                      177    18:04:00
+<name missing>           177    18:04:00
 A N                      200    18:41:00
-                         197    19:15:00
+<name missing>           197    19:15:00
 Richard Rymer            181    19:20:00
 David Adaner             400    19:34:00
 Michael Crusou           205    19:39:00
@@ -22,7 +22,7 @@ Marco Almeida            252    20:11:00
 Allen Numan              245?   20:34:00
 Zosuls Aleks             254    20:34:00
 Benji Whicker            306    20:38:00
-                         135    20:41:00
+<name missing>           135    20:41:00
 Trevar Sheck             317    20:45:00
 Matt Harrison            214    20:51:00
 Matt Camilli             187    20:59:00
@@ -40,7 +40,7 @@ Ben Tuinen               235    22:27:00
 M                        234    22:27:00
 Davin Wynne              222    22:37:00
 Anita Endjilian          300    22:43:00
-                         204    22:54:00
+<name missing>           204    22:54:00
 Jason Freeman            193    23:08:00
 Mica Swyers              171    23:18:00
 Paul Kehrer              194    23:26:00
@@ -75,11 +75,11 @@ Christine Harvey         294    27:48:00
 Thoma Ferd               183    28:20:00
 Duy Tran                 208?   28:49:00
 Claton Parker            232    28:58:00
-                         178    29:01:00
+<name missing>           178    29:01:00
 Jessica Barson           229    29:29:00
 Darren Salomons          195    29:34:00
 Spe Winega               236    30:14:00
-...                      211    30:55:00
+<name missing>           211    30:55:00
 Jeffrey Plean            257    31:02:00
 Sreejata Chorttyie 243   243    31:03:00
 Tapajyoti Das            322    31:08:00
