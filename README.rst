@@ -62,7 +62,7 @@ Mica Swyers              171    23:18:00
 Paul Kehrer              194    23:26:00
 Jordi Yeh                304    23:40:00
 Glen Jarvis              165    23:55:00
-J                        209    24:03:00
+Javier Ramirez           209    24:03:00
 Xr                       199    24:06:00
 Kristin Anderson         215    24:10:00
 Scott Burns              310    24:13:00
