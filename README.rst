@@ -1,6 +1,22 @@
 PyCon 5k Results
 ===================
 
+So I was unable to get everyone's number at the end of the race. 
+Also I was unable to read a lot of handwriting :( 
+
+SO github to the rescue. If you have found a mistake (ie I spelled your name wrong, or I couldn't figure it out at all...)
+Please submit a PR to this so I can track and get the results updated. 
+If I happen to have a name and a number, but no time, it means I wasn't able to record your time when you crossed the finish line. 
+I have a bunch of times on my Phone with no number associated to them. If you know who you finished before or after i can look up your time
+and update the results. (There were some waves of people that came in too fast, and I was unable to keep up by myself :(
+
+Who ever "O" is I'm sorry. 1) there was no printed name and 2) there was no number on the waiver so I don't know who you are!
+If you ran and don't see yourself in the results, come find me and I'll show you the waiver you signed, and you can tell me your name
+and number and I'll update the results. 
+
+Thanks
+Nick
+
 ======================== ====== ========
 Name                     Number Time
 ======================== ====== ========
