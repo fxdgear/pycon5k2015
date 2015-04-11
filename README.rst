@@ -62,6 +62,7 @@ Mica Swyers              171    23:18:00
 Paul Kehrer              194    23:26:00
 Jordi Yeh                304    23:40:00
 Glen Jarvis              165    23:55:00
+Brian Dailey             311    ???
 J                        209    24:03:00
 Xr                       199    24:06:00
 Kristin Anderson         215    24:10:00
@@ -124,7 +125,6 @@ Lasma Sietinsone         228
 J                        233
 Daniel Davis             399
 Megan Pallsen            305
-Brian Dailey             311
 Luke Pebchauer           320
 Hatem Nassrat            321
 Katherine Busch          217
