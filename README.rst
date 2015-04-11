@@ -69,7 +69,7 @@ Scott Burns              310    24:13:00
 Celeste Tretta           190    24:15:00
 Greg Toomss              246    24:22:00
 Ashley Yengelly          216    24:26:00
-Matthew Jusluch          256    24:36:00
+Matthew Jaskula          256    24:36:00
 Nathaniel Manista        168    25:00:00
 Kanila Stephmouska       299    25:05:00
 Aksmit Knorawa           220    25:10:00
