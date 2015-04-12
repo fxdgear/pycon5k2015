@@ -68,6 +68,7 @@ Xr                       199    24:06
 Kristin Anderson         215    24:10
 Scott Burns              310    24:13
 Celeste Tretta           190    24:15
+Carson Lam               179    24:20
 Greg Toomss              246    24:22
 Ashley Yengelly          216    24:26
 Matthew Jaskula          256    24:36
@@ -137,7 +138,6 @@ Elizabeth Ramirez        186
 Deburah Hanus            189
 Nicholas Licitra         192
 O                        ##
-Carson Lam               179
 Mat                      213
 Glen Oakley              176
 Ralph Bean               175
