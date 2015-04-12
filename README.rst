@@ -27,7 +27,7 @@ James Heibert            207    17:32
 Mark Lavin               180    17:50
 Josh Johnston            177    18:04
 A N                      200    18:41
-<name missing>           197    19:15
+Philippe Arteau          197    19:15
 Richard Rymer            181    19:20
 David Adaner             400    19:34
 Michael Crusou           205    19:39
