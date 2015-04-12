@@ -72,7 +72,7 @@ Greg Toomss              246    24:22
 Ashley Yengelly          216    24:26
 Matthew Jaskula          256    24:36
 Nathaniel Manista        168    25:00
-Kanila Stephmouska       299    25:05
+Kamila Stępniowska       299    25:05
 Aksmit Knorawa           220    25:10
 Michal Nemm              240    25:15
 Corgy Markov             244    25:29
