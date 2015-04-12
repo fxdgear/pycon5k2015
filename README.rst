@@ -21,7 +21,7 @@ Nick
 Name                     Number Time
 ======================== ====== ========
 Matt Lovett              297    17:13
-Dan McCobs               174    17:24
+Dan McCombs              174    17:24
 Behnam Kamrani           224    17:27
 James Heibert            207    17:32
 Mark Lavin               180    17:50
