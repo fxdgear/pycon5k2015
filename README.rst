@@ -89,7 +89,7 @@ Jack Connors             319    27:10
 Sudhor Upadhyey          253    27:24
 Reed O'Brien             196    27:45
 Christine Harvey         294    27:48
-Thoma Ferd               183    28:20
+Thomas Fenzl             183    28:20
 Duy Tran                 208?   28:49
 Claton Parker            232    28:58
 <name missing>           178    29:01
