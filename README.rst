@@ -39,7 +39,7 @@ Allen Numan              245?   20:34
 Zosuls Aleks             254    20:34
 Benji Whicker            306    20:38
 <name missing>           135    20:41
-Trevar Sheck             317    20:45
+Trevor Sherk             317    20:45
 Matt Harrison            214    20:51
 Matt Camilli             187    20:59
 Mareu Steanohel          298    21:07
