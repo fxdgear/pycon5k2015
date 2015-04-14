@@ -23,7 +23,7 @@ Name                     Number Time
 Matt Lovett              297    17:13
 Dan McCombs              174    17:24
 Behnam Kamrani           224    17:27
-James Heibert            207    17:32
+James Hiebert            207    17:32
 Mark Lavin               180    17:50
 Josh Johnston            177    18:04
 A N                      200    18:41
