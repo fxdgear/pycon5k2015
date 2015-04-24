@@ -72,6 +72,7 @@ Carson Lam               179    24:20
 Greg Toomss              246    24:22
 Ashley Yengelly          216    24:26
 Matthew Jaskula          256    24:36
+Luke Petschauer           320    24:58
 Nathaniel Manista        168    25:00
 Kamila Stępniowska       299    25:05
 Aksmit Knorawa           220    25:10
@@ -126,7 +127,6 @@ Lasma Sietinsone         228
 J                        233
 Daniel Davis             399
 Megan Pallsen            305
-Luke Pebchauer           320
 Hatem Nassrat            321
 Katherine Busch          217
 Jim Baker                221
